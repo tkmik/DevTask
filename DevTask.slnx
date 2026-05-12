@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DevTask.Core/DevTask.Core.csproj" Id="6397393a-9171-4efd-9780-e8369f74f797" />
+    <Project Path="src/DevTask.Infrastructure/DevTask.Infrastructure.csproj" Id="fb606a3e-ed33-4689-97aa-b82ada2c8fb2" />
+    <Project Path="src/DevTask.Api/DevTask.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DevTask.Api.Tests/DevTask.Api.Tests.csproj" Id="7b34ab90-a7f9-42f9-8100-a22fe84e93e8" />
+  </Folder>
+</Solution>
